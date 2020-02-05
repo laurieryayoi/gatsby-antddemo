@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+
+a.menu-link {
+    display: inline-block;
+}
